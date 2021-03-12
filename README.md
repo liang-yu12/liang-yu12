@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liang-Yu Lin @liang-yu12 
 - :scientist: My research interests include nutrional epidemiology, infectious diseases, environmental and occupational medicine.  
-- :student: I’m currently a PhD student at LSHTM in epidemiology. 
+- :student: I’m currently a PhD student at LSHTM. My research project is about the association between vitamin D and infectious diesease, especially Covid-19 and herpes zoster (shingles).  
 - 📫 Linkedin: https://www.linkedin.com/in/liangyulin/
 - :page_with_curl: ORCiD: https://orcid.org/0000-0003-4720-6738
 
